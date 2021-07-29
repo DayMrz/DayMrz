@@ -1,10 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=daymrz&label=Profile%20views&color=0e75b6&style=flat" alt="daymrz" /> </p>
 <h1 align="center">Hi 👋, I'm Day</h1>
 <h3 align="center">A passionate frontend developer from Colombia, located in Bay Area, CA.</h3>
 
 ![let's make it happen](https://res.cloudinary.com/daymrz/image/upload/v1627570056/1_aonxxi.png)
 
 <p align="left"> <a href="https://twitter.com/daymrz_" target="blank"><img src="https://img.shields.io/twitter/follow/daymrz_?logo=twitter&style=for-the-badge" alt="daymrz_" /></a> </p>
+
 
 - 🔭 I’m currently working on [Yelp-Camp](https://github.com/DayMrz/Yelp-Camp)
 
@@ -29,5 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daymrz&hide=prs,contribs&theme=tokyonight&show_icons=true&locale=en" alt="daymrz" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daymrz&theme=tokyonight" alt="daymrz" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=daymrz&label=Profile%20views&color=0e75b6&style=flat" alt="daymrz" /> </p>
+
