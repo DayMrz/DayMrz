@@ -29,5 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daymrz&hide=prs,contribs&theme=tokyonight&show_icons=true&locale=en" alt="daymrz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daymrz&theme=tokyonight" alt="daymrz" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=daymrz&label=Profile%20views&color=0e75b6&style=flat" alt="daymrz" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=daymrz&label=Profile%20views&color=0e75b6&style=flat" alt="daymrz"/> </p>
 
