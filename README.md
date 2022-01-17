@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Day</h1>
-<h3 align="center">A passionate frontend developer from Colombia, located in Bay Area, CA.</h3>
+<h3 align="center">A passionate Front-End developer from Colombia, located in Bay Area, CA.</h3>
 
 <img align="center" src="./profile-banner.gif" alt="let's make it happen">
 <p align="left"> <a href="https://twitter.com/daymrz_" target="blank"><img src="https://img.shields.io/twitter/follow/daymrz_?logo=twitter&style=for-the-badge" alt="daymrz_" /></a> </p>
