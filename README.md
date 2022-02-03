@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Sharks 🦈,**
 
-- 📫 How to reach me **leilymrz@gmail.com**
+- 📫 How to reach me **daymrz1465@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
