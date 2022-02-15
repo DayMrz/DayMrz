@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/daymrz_" target="blank"><img src="https://img.shields.io/twitter/follow/daymrz_?logo=twitter&style=for-the-badge" alt="daymrz_" /></a> </p>
 
 
-- 🔭 I’m currently working on [FreeCodeCamp-Responsive-Web-Design-Projects](https://github.com/DayMrz/FreeCodeCamp-Responsive-Web-Design-Projects)
+- 🔭 I’m currently working on [Portfolio-Resume-Day](https://github.com/DayMrz/Portfolio-Resume-Day)
 
 - 🌱 I’m currently learning **Mongo Relationships with Express**
 
