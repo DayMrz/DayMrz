@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently [Learning-React](https://github.com/DayMrz/React-Learning)
 
-- 🌱 I’m currently learning **Mongo Relationships with Express**
+- 🌱 I’m currently working on **React To Do App**
 
 - 💬 Ask me about **Sharks 🦈,**
 
