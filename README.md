@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/daymrz_" target="blank"><img src="https://img.shields.io/twitter/follow/daymrz_?logo=twitter&style=for-the-badge" alt="daymrz_" /></a> </p>
 
 
-- 🔭 I’m currently [Learning-React](https://github.com/DayMrz/React-Learning)
+- 🔭 I’m currently [PHP-Basics](https://github.com/DayMrz/php-basics)
 
 - 🌱 I’m currently working on **React To Do App**
 
@@ -31,7 +31,10 @@
    <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
-   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+   <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="express" width="40" height="40"/> </a>
+   
+   
    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
