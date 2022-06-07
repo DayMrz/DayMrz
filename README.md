@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/daymrz_" target="blank"><img src="https://img.shields.io/twitter/follow/daymrz_?logo=twitter&style=for-the-badge" alt="daymrz_" /></a> </p>
 
 
-- 🔭 I’m currently [PHP-Basics](https://github.com/DayMrz/php-basics)
+- 🔭 I’m currently learning [PHP-Basics](https://github.com/DayMrz/php-basics)
 
 - 🌱 I’m currently working on **React To Do App**
 
