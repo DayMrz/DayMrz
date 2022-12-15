@@ -7,11 +7,12 @@
 
 - 🔭 I’m currently learning [PHP-Basics](https://github.com/DayMrz/php-basics)
 
-- 🌱 I’m currently working on **React To Do App**
-
-- 💬 Ask me about **Sharks 🦈,**
+- 💬 Ask me about **Sharks 🦈**
 
 - 📫 How to reach me **daymrz1465@gmail.com**
+
+- - 🔭 Codesandbox [👀 click me 👀](https://codesandbox.io/u/DayMrz)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
