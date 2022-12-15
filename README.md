@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **daymrz1465@gmail.com**
 
-- - 🔭 Codesandbox [👀 click me 👀](https://codesandbox.io/u/DayMrz)
+- Codesandbox [👀 click me 👀](https://codesandbox.io/u/DayMrz)
 
 
 <h3 align="left">Connect with me:</h3>
