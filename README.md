@@ -11,7 +11,7 @@
 
 - 👩‍💻 About my experience **[DayMrz- LinkedIn](https://www.linkedin.com/in/day-mrz-a6064113a/)**
 
-- Codesandbox [👀 click me 👀](https://codesandbox.io/u/DayMrz)
+-  [👀 Codesandbox](https://codesandbox.io/u/DayMrz)
 
 - 💬 Ask me about **Sharks 🦈**
 
